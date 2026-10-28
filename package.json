@@ -1,0 +1,12 @@
+{
+  "name": "verity",
+  "version": "1.0.0",
+  "private": true,
+  "description": "VERITY frontend",
+  "scripts": {
+    "dev": "serve . -l tcp://127.0.0.1:5173"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
